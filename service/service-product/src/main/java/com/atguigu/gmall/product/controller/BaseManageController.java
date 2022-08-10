@@ -32,18 +32,7 @@ public class BaseManageController {
         return Result.ok(baseCategory3List);
     }
 
-//    /**
-//     * 获取一级分类数据
-//     * admin/product/getCategory1
-//     */
-//    @GetMapping("getCategory1")
-//    public Result getCategory1(){
-//        //接收请求参数
-//        //处理方法
-//        List<BaseCategory1>  baseCategory1List = baseManageService.getCategory1();
-//        //响应结果
-//        return Result.ok(baseCategory1List);
-//    }
+
 
     /**
      * 获取一级分类数据
